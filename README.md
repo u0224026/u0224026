@@ -10,7 +10,6 @@
 - 測試
 
 
-
 - **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)**空白鍵不可以在星星前後**
 - Quotes (`Ctrl+Q`)**前面是<的符號  引用**
 - Code blocks (`Ctrl+K`)**程式碼顯示**
