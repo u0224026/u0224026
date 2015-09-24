@@ -9,4 +9,4 @@
 - 撰碼
 - 測試
 
-[trello link](https://trello.com/)
+[trello link](https://trello.com/b/XCVrcHmP/2015-oose-b)
