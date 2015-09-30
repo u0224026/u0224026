@@ -10,5 +10,6 @@
 - 撰碼
 - 測試
 
-[trello link](https://trello.com/b/XCVrcHmP/2015-oose-b)
-**[DEMO link](http://embed.plnkr.co/UHMcKCPbKzHvCzkLIyjo/preview)**
+[trello link](https://trello.com/b/XCVrcHmP/2015-oose-b)  
+
+[DEMO link](http://embed.plnkr.co/UHMcKCPbKzHvCzkLIyjo/preview)
